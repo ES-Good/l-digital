@@ -116,6 +116,7 @@ html, body{
 	font-size: 18px;
 	transition-duration: 350ms;
 	outline: none;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .btn:hover{
 	background: #ed5b65;
@@ -373,6 +374,7 @@ section[data-index="1"]{
 	position: relative;
 	background-color:#fff;
 	font-weight:600;
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 .list ul li:hover{
 	color:#fff;
