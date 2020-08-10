@@ -2,7 +2,7 @@
     font-family: 'Futura PT Book';
     src: url('FuturaPT-Book.eot');
     src: local('Futura PT Book'), local('FuturaPT-Book'),
-        url('/fonts/FuturaPT-Book.woff') format('woff');
+        url('../fonts/FuturaPT-Book.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -10,7 +10,7 @@
     font-family: 'Futura PT Bold';
     src: url('FuturaPT-BoldObl.eot');
     src: local('Futura PT Bold Oblique'), local('FuturaPT-BoldObl'),
-        url('/fonts/FuturaPT-Bold.woff') format('woff');
+        url('../fonts/FuturaPT-Bold.woff') format('woff');
     font-weight: bold;
     font-style: italic;
 }
@@ -18,7 +18,7 @@
     font-family: 'Futura PT Medium';
     src: url('FuturaPTCond-MediumObl.eot');
     src: local('Futura PT Cond Medium Oblique'), local('FuturaPTCond-MediumObl'),
-        url('/fonts/FuturaPTCond-Medium.woff') format('woff');
+        url('../fonts/FuturaPTCond-Medium.woff') format('woff');
     font-weight: 500;
     font-style: italic;
 }
@@ -26,7 +26,7 @@
     font-family: 'Futura PT Light';
     src: url('FuturaPT-LightObl.eot');
     src: local('Futura PT Light Oblique'), local('FuturaPT-LightObl'),
-        url('/fonts/FuturaPT-Light.woff') format('woff');
+        url('../fonts/FuturaPT-Light.woff') format('woff');
     font-weight: 300;
     font-style: italic;
 }
@@ -34,7 +34,7 @@
     font-family: 'Futura PT Heavy';
     src: url('FuturaPT-Heavy.eot');
     src: local('Futura PT Heavy'), local('FuturaPT-Heavy'),
-        url('/fonts/FuturaPT-Heavy.woff') format('woff');
+        url('../fonts/FuturaPT-Heavy.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
