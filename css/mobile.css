@@ -1,8 +1,9 @@
-@media (max-height: 650px){
+@media (max-height: 915px){
 	.layer .layer-screen-one{
-		position: relative;
 		height: auto;
-		width: 40%;
+		width: 17%;
+		left: 0%;
+		bottom: 0%;
 	}
 }
 @media (max-width: 1199px){
